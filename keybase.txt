@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/candorcitadel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://candorcitadel.com
+  * I am candorcitadel (https://keybase.io/candorcitadel) on keybase.
+  * I have a public key ASBCJ1NI1LR6KrFIMEzvvq1-JnRsWDH0HOKHT0aUNVdWywo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012042275348d4b47a2ab148304cefbead7e26746c5831f41ce2874f4694355756cb0a",
+      "host": "keybase.io",
+      "kid": "012042275348d4b47a2ab148304cefbead7e26746c5831f41ce2874f4694355756cb0a",
+      "uid": "e09f849ca4c0592327b5f4b74aa93619",
+      "username": "candorcitadel"
+    },
+    "merkle_root": {
+      "ctime": 1585345639,
+      "hash": "8c48f4ee9eb05234adadc2959ed85dc434b785d2d77956bb262b733751064d6c9d471b148562e12ae3a8ae129359e3ed490ec9bdfc5c0aa7101cba4bf623c333",
+      "hash_meta": "100c4c544c31f8c650c7f8f7f98fafcc97c6a6f54667bfd7b5fc928a2073a2bc",
+      "seqno": 15650026
+    },
+    "service": {
+      "entropy": "4h5pKFIRX+nN3t3b78MQjDuP",
+      "hostname": "candorcitadel.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1585345653,
+  "expire_in": 504576000,
+  "prev": "a7bebe1fa22404c08951871b739361e21a0c32920373a0c23507f7bad7818c68",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQidTSNS0eiqxSDBM776tfiZ0bFgx9Bzih09GlDVXVssKp3BheWxvYWTESpcCCMQgp76+H6IkBMCJUYcbc5Nh4hoMMpIDc6DCNQf3uteBjGjEIEemmevg02cpPqLbcJyBCinld+SPTr6uQjs2J9wa/x+NAgHCo3NpZ8RAyPhzrubi2/0BXh8/erjOSgSZ5GeVNQjkKH3oK2e6I0HVUjaa57bnbyQXKc6/sn28TxDS7NsB6G02RtcLnQyHCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKuA91T1DQCYhKZkrurZ1O8j29bb7IfuGVqa18J53E2po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/candorcitadel
+
+==================================================================
