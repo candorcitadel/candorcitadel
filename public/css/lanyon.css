@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .masthead #logo {
     text-align: center;
-    background-image: url("/assets/logo.png");
+    background-image: url("/assets/img/logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 300px;
