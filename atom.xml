@@ -4,62 +4,13 @@
  <title>Candor Citadel</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-03-29T12:53:35+02:00</updated>
+ <updated>2020-03-29T13:03:58+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Candor Citadel</name>
    <email>candorcitadel@protonmail.com</email>
  </author>
 
- 
- <entry>
-   <title>Unmasking the ESC/EAS guidelines for management of dyslipidaemias</title>
-   <link href="http://localhost:4000/unmasking-the-esc-eas-guidelines/"/>
-   <updated>2020-03-29T12:53:35+02:00</updated>
-   <id>http://localhost:4000/unmasking-the-esc-eas-guidelines</id>
-   <content type="html">&lt;p&gt;In 2019, the European Society of Cardiology (ESC) and European Atherosclerosis Society (EAS) published their dyslipidaemia guidelines&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1093/eurheartj/ehz455&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; in which they outline their recommendations of medical practice for reduction of cardiovascular risk through lipid modification. Notably, they boldly state that the lipid hypothesis has been proven&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Thus, there is no longer an ‘LDL-C hypothesis’, but established facts that increased LDL-C values are causally related to ASCVD, and that lowering LDL particles and other ApoB-containing lipoproteins as much as possible reduces CV events.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;and reference nine papers&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1016/S0140-6736(10)61350-5&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1001/jama.2012.6571&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1038/ng.2797&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1038/ng.3396&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1016/j.jacc.2012.09.017&quot;&gt;[6]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1093/eurheartj/eht571&quot;&gt;[7]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1001/jama.2016.13985&quot;&gt;[8]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1093/eurheartj/ehx144&quot;&gt;[9]&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1016/S0140-6736(05)67394-1&quot;&gt;[10]&lt;/a&gt;&lt;/sup&gt; as &lt;em&gt;“compelling evidence”&lt;/em&gt; thereof.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;The remarkable consistency among these studies, in addition to biological and experimental evidence, provides compelling  evidence  that  LDL-C  is  causally  associated  with  the  risk  of ASCVD, and that lowering LDL-C reduces the risk of ASCVD proportionally to the absolute achieved reduction in LDL-C.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Let us examine these studies.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/S0140-6736(10)61350-5&quot;&gt;[2]&lt;/a&gt; and &lt;a href=&quot;https://doi.org/10.1016/S0140-6736(05)67394-1&quot;&gt;[10]&lt;/a&gt; are meta-analyses of statin trials showing a 0.8% reduced yearly absolute risk of major vascular events in favor of statins, half of which is attributed to fewer revascularizations rather than death, heart attack, or stroke. Studies on statins are tricky in a number of ways. Due to the nature of RCTs, the trials are in many cases funded by pharmaceutical companies, giving rise to a conflict of interest. In fact, these meta-analyses fall into that category alongside the constituent trials.
-    &lt;blockquote&gt;
-      &lt;p&gt;Most of the trials in this report were supported by research grants from the pharmaceutical industry. Some members of the writing committee have received reimbursement of costs to participate in scientific meetings from the pharmaceutical industry.&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;With an incentive to abuse the loopholes in the RCT regulations, the trials have a high chance of being biased, which isn’t an uncommon phenomenon.&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.pmed.1001578&quot;&gt;[11]&lt;/a&gt;&lt;/sup&gt; Another reason to suspect bias is that few if any of the major statin trials have allowed third parties access to their data sets for verification. A 2015 meta-analysis&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.15586/jcbmr.2015.11&quot;&gt;[12]&lt;/a&gt;&lt;/sup&gt; showed that the trials conducted after 2005 with the stricter regulations all failed to show any benefit, strongly indicating that the trials in fact are biased, which has been a lingering suspicion.&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.pmed.0040184&quot;&gt;[13]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-    &lt;p&gt;Finally, benefits of statins cannot be blindly as sumed to be due to lowered cholesterol as they have many other effects as well.&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1007/s00228-002-0556-0&quot;&gt;[14]&lt;/a&gt;&lt;a href=&quot;https://doi.org/10.1080/17512433.2019.1606711&quot;&gt;[15]&lt;/a&gt;&lt;a href=&quot;https://doi.org/10.1093/eurheartj/ehz310&quot;&gt;[16]&lt;/a&gt;&lt;a href=&quot;https://doi.org/10.1586/17512433.2015.1011125&quot;&gt;[17]&lt;/a&gt;&lt;a href=&quot;https://doi.org/10.2105/AJPH.2012.301163&quot;&gt;[18]&lt;/a&gt;&lt;a href=&quot;https://doi.org/10.1093/qjmed/hcs204&quot;&gt;[19]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://doi.org/10.1001/jama.2012.6571&quot;&gt;[3]&lt;/a&gt; does not involve LDL-C, but rather ApoB which is the constituent of LDL particles that is claimed to cause ASCVD.&lt;/p&gt;
-
-    &lt;p&gt;Comparing a set of lipid-related markers—including ApoB—for their efficacy of predicting cardiovascular disease, they concluded that HDL-C and total cholesterol far exceed the others. In fact, ApoB levels did not contribute to prediction of cardiovascular disease at all. The wording of the conclusion gives a different impression, which is not surprising with the once more massive conflicts of interests.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://doi.org/10.1038/ng.2797&quot;&gt;[4]&lt;/a&gt;, &lt;a href=&quot;https://doi.org/10.1038/ng.3396&quot;&gt;[5]&lt;/a&gt;, &lt;a href=&quot;https://doi.org/10.1016/j.jacc.2012.09.017&quot;&gt;[6]&lt;/a&gt;, and &lt;a href=&quot;https://doi.org/10.1093/eurheartj/eht571&quot;&gt;[7]&lt;/a&gt; are mendelian randomization studies, all of which are completely or mostly comprised of genome-wide association studies (GWAS). Mendelian randomization is genetic epidemiology that searches for associations and has massive challenges&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1097/EDE.0000000000000081&quot;&gt;[20]&lt;/a&gt;&lt;/sup&gt;, especially in the case of GWAS.&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1038/nrg3457&quot;&gt;[21]&lt;/a&gt;&lt;/sup&gt; Suffice it to say that it is near-impossible—if not truly impossible—to determine causation with epidemiology, mendelian randomization or otherwise.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://doi.org/10.1001/jama.2016.13985&quot;&gt;[8]&lt;/a&gt; is a meta-analysis of both statin and non-statin trials showing a correlation between lower LDL-C and reduced major coronary events. The statin trials are largely the same as previously discussed. Of the non-statin trials, the most interesting ones are the two PCSK9-inhibitor trials with the greatest reduction of LDL as well as greatest alleged reduction of cardiovascular events. Taking a direct look at the two trials&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1056/NEJMoa1501031&quot;&gt;[22]&lt;/a&gt;&lt;a href=&quot;https://doi.org/10.1056/NEJMoa1500858&quot;&gt;[23]&lt;/a&gt;&lt;/sup&gt; we see that they show no difference in adverse cardiovascular events but bolster their numbers by including weak endpoints such as hospitalization.&lt;/p&gt;
-
-    &lt;p&gt;This bias is unsurprising as the trials as well as the meta-analysis itself are funded by the pharmaceutical industry.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/eurheartj/ehx144&quot;&gt;[9]&lt;/a&gt; is merely a consensus statement by the EAS themselves referencing the other studies in this list.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Even if high levels of LDL were causative of ASCVD, a cause is generally &lt;a href=&quot;/the-innocent-culprit&quot;&gt;an innocent culprit&lt;/a&gt;. Finding causation is only the first step towards insight, and insight is necessary for appropriate “management” of disease.&lt;/p&gt;
-
-&lt;p&gt;It is clear that the ESC and EAS have ulterior motives for their guidelines on dyslipidaemia and are hereby unmasked as frauds.&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>The Innocent Culprit</title>
