@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     background-image: url("/assets/img/logo.png");
     background-size: contain;
     background-repeat: no-repeat;
-    height: 300px;
+    max-width: 100%;
     width: 500px;
     margin: auto;
 }
