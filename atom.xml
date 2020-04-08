@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Candor Citadel</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-04-03T21:27:40+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://candorcitadel.com/atom.xml" rel="self"/>
+ <link href="https://candorcitadel.com/"/>
+ <updated>2020-04-08T19:16:00+02:00</updated>
+ <id>https://candorcitadel.com</id>
  <author>
    <name>Candor Citadel</name>
    <email>candorcitadel@protonmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Unmasking the ESC/EAS guidelines for management of dyslipidaemias</title>
-   <link href="http://localhost:4000/unmasking-the-esc-eas-guidelines/"/>
+   <link href="https://candorcitadel.com/unmasking-the-esc-eas-guidelines/"/>
    <updated>2020-03-29T00:00:00+01:00</updated>
-   <id>http://localhost:4000/unmasking-the-esc-eas-guidelines</id>
+   <id>https://candorcitadel.com/unmasking-the-esc-eas-guidelines</id>
    <content type="html">&lt;p&gt;In 2019, the European Society of Cardiology (ESC) and European Atherosclerosis Society (EAS) published their dyslipidaemia guidelines&lt;sup&gt;&lt;a href=&quot;https://doi.org/10.1093/eurheartj/ehz455&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; in which they outline their recommendations of medical practice for reduction of cardiovascular risk through lipid modification. Notably, they boldly state that the lipid hypothesis has been proven&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Thus, there is no longer an ‘LDL-C hypothesis’, but established facts that increased LDL-C values are causally related to ASCVD, and that lowering LDL particles and other ApoB-containing lipoproteins as much as possible reduces CV events.&lt;/p&gt;
@@ -63,9 +63,9 @@
  
  <entry>
    <title>The Innocent Culprit</title>
-   <link href="http://localhost:4000/the-innocent-culprit/"/>
+   <link href="https://candorcitadel.com/the-innocent-culprit/"/>
    <updated>2020-03-27T00:00:00+01:00</updated>
-   <id>http://localhost:4000/the-innocent-culprit</id>
+   <id>https://candorcitadel.com/the-innocent-culprit</id>
    <content type="html">&lt;p&gt;– &lt;strong&gt;&lt;em&gt;You are an arsonist. You douse the grass in gasoline. You ignite it with a burning matchstick. You let it develop into a forest fire. What caused the fire, and how do we know?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;– &lt;em&gt;I caused the fire, of course. There would be no fire without me.&lt;/em&gt;&lt;/p&gt;
